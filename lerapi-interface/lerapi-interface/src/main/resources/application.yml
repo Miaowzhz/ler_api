@@ -1,0 +1,8 @@
+server:
+  port: 9999
+  servlet:
+    context-path: /api
+lerapi:
+  client:
+    access-key: ler
+    secret-key: asdfghjk
